@@ -5,6 +5,8 @@
 Este primeiro módulo traz os conceitos de básicos da linguagem Python de uma forma muito didática e de fácil compreensão, quem está iniciando na linguagem é super importante 
 conhecer e principalmente praticar TODOS os exercícios propostos pelo professor.
 
+![Python](https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1-300x300.png)
+
 Nesse primeiro curso foram abordados os seguintes tópicos:
 
 - Introdução ao Mundo da Programação
