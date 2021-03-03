@@ -16,7 +16,7 @@ Nesse primeiro curso foram abordados os seguintes tópicos:
 - Condições em Python (if..else)
 - Adicionando cores ao Python
 
-Segue abaixo o link do canal no Youtube e do site Curso em Vídeo, lá existem diversos cursos que você pode fazer e aprimorar seus conhecimentos! (Todos com Certificado!)
+Segue abaixo o link do canal no Youtube e do site Curso em Vídeo, lá existem diversos cursos que você pode fazer e aprimorar seus conhecimentos (Todos com Certificado).
 
 - https://www.youtube.com/user/cursosemvideo
 - http://cursoemvideo.com
